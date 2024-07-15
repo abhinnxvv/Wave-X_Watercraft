@@ -1,4 +1,4 @@
-# WaveX Watercraft Power BI Reports
+# WaveX Watercraft
 
 This project involves the creation of two Power BI reports: Sales Report and HR Report, for the WaveX Watercraft company. These reports visualize the 2022 sales data of watercraft, HR data, product sales, and other relevant metrics.
 
